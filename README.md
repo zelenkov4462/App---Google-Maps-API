@@ -16,3 +16,5 @@ React, {useState, useEffect}.
 Изменение темы карты с помощью https://snazzymaps.com/
 
 ![2022-10-10_13-13-42](https://user-images.githubusercontent.com/101303690/194807372-f6f78625-abde-4093-b25c-36b012472ae3.png)
+
+![2022-10-10_13-27-06](https://user-images.githubusercontent.com/101303690/194808743-d4591be0-c9a5-431e-b116-a25bb6a7f9bb.png)
